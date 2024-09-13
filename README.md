@@ -1,16 +1,18 @@
-## Hi there 👋
+## About Me :wave:
 
-<!--
-**marcello-grati/marcello-grati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! My name is Marcello, I'm a 25-year-old Music and Acoustic Engineering student at Politecnico di Milano, where I also obtained a Bachelor degree in Computer Science.
 
-Here are some ideas to get you started:
+I'm currently residing in Milan, Italy, and I'm looking for a master thesis project to conclude my studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I'm Learning :books:
+
+#### Software:
+
+#### Front-end:
+
+#### Back-end:
+
+#### Editors and Operating Systems:
+
+<hr>
+
