@@ -19,11 +19,12 @@ I'm currently residing in Milan, Italy🇮🇹 and I'm looking for a master thes
 ![Andrid Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB?logo=xcode&logoColor=white)
 ![Webstorm](https://img.shields.io/badge/Webstorm-%23000000?logo=webstorm&logoColor=white)
-![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
+![LaTeX](http://img.shields.io/badge/-LaTeX-008080?&logo=latex&logoColor=ffffff)
 
 - Frameworks/libraries :   
 ![Static Badge](https://img.shields.io/badge/Juce-%238DC63F?logo=juce&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Vulkan-%23A41E22?logo=vulkan&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Processing-%23006699?logo=processingfoundation&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/scikit--learn-%23F7931E?logo=scikitlearn&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?logo=arduino&logoColor=white)
@@ -32,4 +33,4 @@ I'm currently residing in Milan, Italy🇮🇹 and I'm looking for a master thes
 ![Static Badge](https://img.shields.io/badge/Android-%2334A853?logo=android&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/macOS-black?logo=apple&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?logo=ubuntu&logoColor=white)
-![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
+![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?logo=gnu-bash&logoColor=ffffff)
