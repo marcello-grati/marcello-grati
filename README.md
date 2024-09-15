@@ -1,8 +1,8 @@
 ## Hello there :wave:
 
-Hey! My name is Marcello, I'm a 25-year-old Music and Acoustic Engineering student at Politecnico di Milano, where I also obtained a Bachelor degree in Computer Science.
+Hey! My name is Marcello, I'm a 25-year-old student of Music and Acoustic Engineering 🎹💻 at Politecnico di Milano, where I also obtained a Bachelor degree in Informatic Engineering.
 
-I'm currently residing in Milan, Italy, and I'm looking for a master thesis project to conclude my studies.
+I'm currently residing in Milan, Italy🇮🇹 and I'm looking for a master thesis project to conclude my studies.
 
 ## Technologies I'm Learning :books:
 - Languages :   
@@ -21,10 +21,11 @@ I'm currently residing in Milan, Italy, and I'm looking for a master thesis proj
 ![Webstorm](https://img.shields.io/badge/Webstorm-%23000000?logo=webstorm&logoColor=white)
 ![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
 
-- Frameworks/libraries :
+- Frameworks/libraries :   
 ![Static Badge](https://img.shields.io/badge/Juce-%238DC63F?logo=juce&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Vulkan-%23A41E22?logo=vulkan&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Processing-%23006699?logo=processingfoundation&logoColor=white)
+![Static Badge](https://img.shields.io/badge/scikit--learn-%23F7931E?logo=scikitlearn&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?logo=arduino&logoColor=white)
 
 - OS :   
