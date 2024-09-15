@@ -1,4 +1,4 @@
-## About Me :wave:
+## Hello there :wave:
 
 Hey there! My name is Marcello, I'm a 25-year-old Music and Acoustic Engineering student at Politecnico di Milano, where I also obtained a Bachelor degree in Computer Science.
 
