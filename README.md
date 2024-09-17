@@ -12,6 +12,7 @@ I'm currently residing in Milan, Italy🇮🇹 and I'm looking for a master thes
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?logo=kotlin&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-%2308609d?logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?logo=javascript&logoColor=000000&color=d1b01f)
+![LaTeX](http://img.shields.io/badge/-LaTeX-008080?&logo=latex&logoColor=ffffff)
 
 - IDEs :   
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=ffffff)
@@ -19,7 +20,6 @@ I'm currently residing in Milan, Italy🇮🇹 and I'm looking for a master thes
 ![Andrid Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB?logo=xcode&logoColor=white)
 ![Webstorm](https://img.shields.io/badge/Webstorm-%23000000?logo=webstorm&logoColor=white)
-![LaTeX](http://img.shields.io/badge/-LaTeX-008080?&logo=latex&logoColor=ffffff)
 
 - Frameworks/libraries :   
 ![Static Badge](https://img.shields.io/badge/Juce-%238DC63F?logo=juce&logoColor=white)
