@@ -27,6 +27,7 @@ I'm currently residing in Milan, Italy🇮🇹 and I'm looking for a master thes
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Processing-%23006699?logo=processingfoundation&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/scikit--learn-%23F7931E?logo=scikitlearn&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ffmpeg-%23007808?logo=ffmpeg&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?logo=arduino&logoColor=white)
 
 - OS :   
